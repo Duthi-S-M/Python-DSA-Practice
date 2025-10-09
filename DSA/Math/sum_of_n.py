@@ -1,3 +1,8 @@
-n = int(input("enter the value of n"))
-sum = n(n+1)/2  # it is having / single dividant operation so the output will be in floating point value
-print(sum)
+def sum(n):
+  sum =  0
+  a = 1
+
+  while a < = n:
+    sum += 1
+    x += 1
+ return sum
